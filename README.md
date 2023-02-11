@@ -1,4 +1,4 @@
-# New Year New Me|
+# New Year New Me
 Visit Now: <br> https://rupom.eu.org/new-year-new-me <br> https://rupomchowdhury.github.io/new-year-new-me
 
 ---
