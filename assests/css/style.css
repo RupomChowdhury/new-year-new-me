@@ -1,0 +1,235 @@
+* {
+  margin: 0;
+  font-family: "Work Sans";
+  font-style: normal;
+}
+
+/* header main start */
+.header-main {
+  background: #fff8f3;
+  background-image: url(/assests/img/banner/banner1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 808px;
+}
+.header-text {
+  padding: 216px 230px 0px 845px;
+  font-weight: 700;
+  font-size: 65px;
+  color: #151414;
+  text-align: right;
+}
+.header-description {
+  width: 494px;
+  height: 78px;
+  margin: 24px 0px 0px 1190px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  text-align: right;
+}
+.header-btn {
+  color: #fff;
+  font-size: 20px;
+  width: 160px;
+  height: 64px;
+  margin: 24px 166px 32px 1520px;
+  background-color: #f15b22;
+  border: #f15b22;
+  border-radius: 5px;
+  padding: 20px;
+}
+/* header main end */
+
+/* failure of previous year start */
+.failure-yr {
+  display: flex;
+  justify-content: center;
+}
+.failure-img {
+  margin: 131px 200px 130px 100px;
+}
+.failure-text {
+  width: 416px;
+  height: 400px;
+  margin: 370px 0px 214px 0px;
+}
+.failure-title {
+  width: 288px;
+  height: 94px;
+  margin-bottom: 24px;
+  color: #151414;
+  font-weight: 700;
+  font-size: 40px;
+}
+.failure-description {
+  margin-bottom: 16px;
+  color: #444343;
+  font-weight: 400;
+  font-size: 16px;
+}
+.check-list {
+  color: #444343;
+  font-weight: 400;
+  font-size: 16px;
+}
+main section div p {
+  margin-bottom: 8px;
+}
+/* failure of previous year end */
+
+/* my plan start */
+.my-plans {
+  width: 1141px;
+  height: 299.96px;
+  margin: 0px 0px 130px 400px;
+}
+.plan-title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  margin-bottom: 50px;
+}
+.plan-container {
+  display: flex;
+  justify-content: space-around;
+}
+.plan-info {
+  width: 250px;
+  height: 197px;
+}
+.plan-title-sub {
+  font-weight: 700;
+  font-size: 30px;
+  color: #151414;
+  text-align: center;
+  margin: 24px 0px 16px 0px;
+}
+.plan-description {
+  font-weight: 500;
+  font-size: 25px;
+  text-align: center;
+  color: #737272;
+}
+.plan-info img {
+  width: 93px;
+  height: 93px;
+  margin-left: 75px;
+}
+/* my plans end */
+
+/* call section start */
+.call-box {
+  width: 1140px;
+  height: 300px;
+  background-image: linear-gradient(
+      90deg,
+      #f15b22 0%,
+      rgba(241, 91, 34, 0) 100%
+    ),
+    url(/assests/img/watch.png);
+  margin: 0px 0px 130px 400px;
+  border-radius: 8px;
+}
+.call-info {
+  width: 459px;
+  height: 182px;
+  padding: 59px 0px 59px 64px;
+}
+.call-title {
+  margin-bottom: 24px;
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffffff;
+}
+.call-btn {
+  width: 160px;
+  height: 64px;
+  border-radius: 5px;
+  color: #f15b22;
+  font-weight: 600;
+  font-size: 20px;
+}
+/* call section end */
+
+/* footer start */
+.footer-box {
+  height: 567px;
+  display: flex;
+  justify-content: center;
+  background-color: #151414;
+}
+.footer-contact {
+  width: 485px;
+  height: 317px;
+  margin: 130px 331px 0px 0px;
+}
+.footer-title {
+  font-weight: 700;
+  font-size: 45px;
+  color: #f8f8f8;
+}
+.footer-description {
+  width: 485px;
+  height: 78px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  margin: 16px 0px 24px 0px;
+}
+.contact {
+  width: 184px;
+  height: 26px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+footer div img {
+  width: 47px;
+  height: 46px;
+  margin: 16px 5px 0px 0px;
+}
+.news-letter {
+  width: 325px;
+  height: 204px;
+  margin-top: 130px;
+}
+.nl-title {
+  font-weight: 600;
+  font-size: 25px;
+  color: #ffffff;
+  margin-bottom: 31px;
+}
+.news-letter {
+    width: 325px;
+    height: 204px;
+}
+input {
+  display: block;
+  width: 325px;
+  height: 44px;
+  font-weight: 400;
+  font-size: 18px;
+  background-color: transparent;
+  color: #f3f3f3;
+  border-radius: 3px;
+}
+.sub-btn {
+  width: 150px;
+  height: 54px;
+  margin-top: 16px;
+  color: #f15b22;
+  font-weight: 600;
+  font-size: 20px;
+}
+.copyright {
+  height: 25px;
+  font-weight: 400;
+  font-size: 20px;
+  background-color: #f15b22;
+  color: #ffffff;
+  text-align: center;
+}
+/* footer end */
